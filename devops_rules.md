@@ -1,7 +1,7 @@
 # 🔧 DevOps Engineering Ruleset
-_A universal, opinionated guideline for building reliable, scalable, and secure DevOps pipelines & environments._  
-**Owner**: DevOps Lead  
-**Version**: 1.0.0  
+_A universal, opinionated guideline for building reliable, scalable, and secure DevOps pipelines & environments._
+**Owner**: DevOps Lead
+**Version**: 1.0.0
 **Last Updated**: 2025-06-06
 
 ---
@@ -108,4 +108,3 @@ _A universal, opinionated guideline for building reliable, scalable, and secure 
 ---
 
 🛰️ _Follow these rules to keep systems tight, clean, and hacker-proof_ 🥷
-
